@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #e0f2f1; /* Azul-claro */
+    background-color: #e0f2f1;
     color: #333;
     text-align: center;
     padding: 20px;
@@ -8,7 +8,7 @@ body {
 }
 
 h2 {
-    color: #2e7d32; /* Verde suave */
+    color: #2e7d32;
     margin-bottom: 20px;
 }
 
@@ -30,20 +30,20 @@ label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
-    color: #2e7d32; /* Verde suave */
+    color: #2e7d32;
 }
 
 input[type="text"], input[type="number"] {
     width: calc(100% - 22px);
     padding: 8px;
     margin-bottom: 10px;
-    border: 1px solid #2e7d32; /* Verde suave */
+    border: 1px solid #2e7d32;
     border-radius: 4px;
     box-sizing: border-box;
 }
 
 button {
-    background-color: #2e7d32; /* Verde suave */
+    background-color: #2e7d32;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -54,7 +54,7 @@ button {
 }
 
 button:hover {
-    background-color: #1b5e20; /* Verde mais escuro */
+    background-color: #1b5e20;
 }
 
 table {
@@ -73,7 +73,7 @@ th, td {
 }
 
 th {
-    background-color: #2e7d32; /* Verde suave */
+    background-color: #2e7d32;
     color: white;
 }
 
